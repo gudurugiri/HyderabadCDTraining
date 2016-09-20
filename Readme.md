@@ -7,7 +7,7 @@
 	`git init`
 	
 3. Create Readme.md file
-4. add some coll stuff in that file
+4. add some cool stuff in that file
 5. Type following commnad to stage the file for commit
 	`git add Readme.md`
 6. Commit the changes to your local repo by typing following command
